@@ -12,6 +12,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "16"
+  },
   "dependencies": {
     "peer": "^0.6.1"
   }
